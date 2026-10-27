@@ -1,0 +1,6 @@
+{
+  "name": "KingOv AI Creator Studio",
+  "description": "All-in-one AI content creation web platform for movies, social media, scriptwriting, business marketing, and education in Nigeria and worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
